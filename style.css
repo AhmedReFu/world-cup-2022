@@ -56,3 +56,46 @@ body {
 .match {
     margin: 50px 0;
 }
+
+footer {
+    text-align: center;
+    margin-top: 150px;
+    color: #fcfcfc;
+    background-color: #050505;
+    padding: 100px 0;
+}
+
+footer h2 {
+    font-size: 50px;
+}
+
+hr {
+    margin-top: 100px;
+}
+
+.footer-list ul li {
+    list-style: none;
+}
+
+.footer-list ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-list ul li a:hover {
+    color: red;
+}
+
+.social-icon a i {
+    color: white;
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: 40px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+.social-icon a i:hover {
+    color: red;
+
+}
